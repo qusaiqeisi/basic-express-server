@@ -17,7 +17,7 @@ function start(port) {
 
 
 app.get('/', (req, res) => {
-    res.send('hello from the ather side')
+    res.send('hello from the other side')
 });
 
 
